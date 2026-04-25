@@ -1,2 +1,2 @@
-# blog
-Repository for my blog posts
+# portfolio-blog
+Repository for all my blog articles
