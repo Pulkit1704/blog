@@ -3,3 +3,16 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins: 
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# _config.yml
+site:
+  locale: "en-US"
+
+# This links the data file to the header
+header:
+  overlay_filter: 0.5 # Optional: darkens images if you use header images
+  caption:           # Optional
+# The line below is the most important
+navigation:
+  - title: "Main"
+    nav: main
