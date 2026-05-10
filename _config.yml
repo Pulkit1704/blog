@@ -1,3 +1,6 @@
+url: "https://pulkit1704.github.io"
+baseurl: "/blog"
+
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins: 
