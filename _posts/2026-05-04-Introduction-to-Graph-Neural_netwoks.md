@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "An Introduction to Graph Neural Networks"
 date: 2026-05-04
 ---
